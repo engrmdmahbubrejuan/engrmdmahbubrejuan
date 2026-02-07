@@ -1,44 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mahbub</h1>
-<h3 align="center">Web Developer | Tech Lover | Problem Solver</h3>
+# 👋 Hi, I'm Mahbub Dev Prog
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 I’m working on **Web & Cloud Projects**
-- 🌱 Currently learning **Advanced Web & AI Tools**
-- 💬 Ask me about **Web, Hosting, GitHub**
-- 📫 Contact: **usacloudit@gmail.com**
+🚀 Passionate Web Developer  
+💻 Building real-world projects with clean code  
+🌱 Always learning new technologies  
 
 ---
 
-### 🛠️ Skills
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge)
+## 🏆 Profile Overview
+![GitHub followers](https://img.shields.io/github/followers/mahbub-dev-prog?label=Followers&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/mahbub-dev-prog?label=Stars&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=mahbub-dev-prog&style=for-the-badge)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+## 🛠 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 🔗 Connect with me
-- 🌐 Website: **mssuperhost.com**
-- 📧 Email: **usacloudit@gmail.com**
-- 📱 Telegram: **@usacloudit**
+## 📂 Featured Projects
+🔹 **E-commerce Website**  
+– Product listing, cart & authentication  
 
-## Contributors
-- Project Owner
-- Team Member
+🔹 **CRUD Management System**  
+– Full create, update, delete, view features  
+
+🔹 **REST API Project**  
+– Node.js + MongoDB backend API  
+
+🚧 *More projects coming soon…*
+
+---
+
+## 📊 GitHub Stats (Dark Theme)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahbub-dev-prog&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub-dev-prog&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahbub-dev-prog&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake Animation
+![snake animation](https://raw.githubusercontent.com/mahbub-dev-prog/mahbub-dev-prog/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🤝 Connect With Me
+📧 Email: usacloudit@gmail.com  
+💬 Telegram: @usacloudit  
+📱 WhatsApp: +1 716 200 3096  
+
+---
+
+⭐ Thanks for visiting my profile!
